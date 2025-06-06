@@ -1,0 +1,20 @@
+^OtsuFire\\.Rproj$           # Archivo del proyecto RStudio
+^\\.Rproj\\.user$            # Carpeta oculta de RStudio
+^README\\.Rmd$               # README fuente
+^README\.Rmd$
+^README\.md$
+^README$                     # Carpeta con figuras del README
+^rutas_externas\\.Renviron$ # Configuración local
+^ZENODO$                     # Datos externos Zenodo
+^data-raw$                   # Scripts auxiliares
+^LICENSE$                    # Archivo LICENSE personalizado
+^\\.git$                     # Carpeta Git
+^\.Rproj\.user$
+^OtsuFire\.Rproj$
+^README$
+^rutas_externas\.Renviron$
+^ZENODO$
+^data-raw$
+^LICENSE$
+^\.git$
+^prueba_output\\.gpkg$
